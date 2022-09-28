@@ -13,6 +13,15 @@ theme:
 repo_url: https://github.com/ojacques/ojacques.github.io.2
 repo_name: ojacques.github.io.2
 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/ojacques2
+    - icon: fontawesome/brands/github
+      link: https://github.com/ojacques
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/olivierjacques/
+
 nav:
   - README.md
   - Blog:
