@@ -1,4 +1,39 @@
-site_name: My Docs
+site_name: Olivier JACQUES's README
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+repo_url: https://github.com/ojacques/ojacques.github.io.2
+repo_name: ojacques.github.io.2
+
+nav:
+  - README.md
+  - Blog:
+    - blog/index.md 
+
+markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+plugins:
+  - search
+  - social:
+      cards: !ENV [CARDS, false]
+      cards_font: Roboto
+  - git-committers:
+      repository: ojacques/ojacques.github.io.2
+      branch: main
+      enabled: true
 

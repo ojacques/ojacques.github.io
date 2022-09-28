@@ -1,2 +1,4 @@
 pillow
 cairosvg
+mkdocs-git-committers-plugin-2
+mdx-truly-sane-lists

@@ -1,6 +1,8 @@
 INHERIT: mkdocs.yml
 plugins:
-  - search
+  - meta
+  - blog:
+      post_url_date_format: yyyy-MM-dd
+      pagination_per_page: 20
   - social
   - tags
-
