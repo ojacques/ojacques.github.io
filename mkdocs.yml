@@ -11,6 +11,7 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.top
+site_url: https://ojacques.github.io/
 repo_url: https://github.com/ojacques/ojacques.github.io.2
 repo_name: ojacques.github.io.2
 
