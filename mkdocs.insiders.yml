@@ -11,7 +11,7 @@ plugins:
       cards: !ENV [CARDS, false]
       cards_font: Roboto
   - git-committers:
-      repository: ojacques/ojacques.github.io.2
+      repository: ojacques/ojacques.github.io
       branch: main
       enabled: true
 

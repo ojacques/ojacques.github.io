@@ -13,7 +13,7 @@ theme:
     - navigation.top
 site_url: https://www.olivierjacques.com/
 repo_url: https://github.com/ojacques/ojacques.github.io
-repo_name: ojacques.github.io.2
+repo_name: ojacques.github.io
 
 extra:
   social:
