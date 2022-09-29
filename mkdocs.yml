@@ -38,13 +38,3 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 
-plugins:
-  - search
-  - social:
-      cards: !ENV [CARDS, false]
-      cards_font: Roboto
-  - git-committers:
-      repository: ojacques/ojacques.github.io.2
-      branch: main
-      enabled: true
-

@@ -1,8 +1,17 @@
 INHERIT: mkdocs.yml
 plugins:
+  - search
   - meta
   - blog:
       post_url_date_format: yyyy-MM-dd
       pagination_per_page: 20
   - social
   - tags
+  - social:
+      cards: !ENV [CARDS, false]
+      cards_font: Roboto
+  - git-committers:
+      repository: ojacques/ojacques.github.io.2
+      branch: main
+      enabled: true
+
