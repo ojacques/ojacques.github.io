@@ -2,6 +2,7 @@ site_name: Olivier JACQUES's README
 theme:
   name: material
   custom_dir: overrides
+  favicon: favicon.ico
   features:
     - navigation.instant
     - navigation.tracking
