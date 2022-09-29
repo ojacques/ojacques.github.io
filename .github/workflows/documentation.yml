@@ -36,7 +36,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install .
+          pip install -r requirements.txt
           pip install \
             "cairosvg>=2.5" \
             "mkdocs-git-committers-plugin-2" \
@@ -47,5 +47,4 @@ jobs:
             "pillow<10"
 
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
