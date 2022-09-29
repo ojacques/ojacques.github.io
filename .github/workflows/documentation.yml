@@ -47,4 +47,4 @@ jobs:
             "pillow<10"
 
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: mkdocs gh-deploy --force
+      - run: make deploy
