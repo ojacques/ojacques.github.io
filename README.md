@@ -1,2 +1,2 @@
-# ojacques.github.io.2
+# ojacques.github.io
 Personal site and blog, based on mkdocs
