@@ -46,5 +46,5 @@ jobs:
             "mkdocs-redirects>=1.0" \
             "pillow<10"
 
-      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+      - run: pip install git+https://${GH_TOKEN}@github.com/ojacques/mkdocs-material-insiders.git
       - run: make deploy
