@@ -1,5 +1,7 @@
 ---
 date: 2020-08-03
+authors:
+  - ojacques
 ---
 
 # Synology NAS pour une startup / Micro entrepreneur / PME

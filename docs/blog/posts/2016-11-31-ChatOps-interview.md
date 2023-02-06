@@ -3,6 +3,8 @@ date: 2016-11-30
 categories:
   - ChatOps
   - Video
+authors:
+  - ojacques
 ---
 
 # 📺 ChatOps interview with devops.com

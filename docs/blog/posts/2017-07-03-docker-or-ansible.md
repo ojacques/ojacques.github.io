@@ -1,5 +1,7 @@
 ---
 date: 2017-07-03
+authors:
+  - ojacques
 ---
 
 # Docker or Ansible?

@@ -2,6 +2,8 @@
 date: 2017-06-23
 categories:
     - ChatOps
+authors:
+  - ojacques
 ---
 
 # Smarter Hubot with api.ai

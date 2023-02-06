@@ -1,5 +1,7 @@
 ---
 date: 2015-11-15
+authors:
+  - ojacques
 ---
 
 # 📺 DevOps at HP IT, DevOps Enterprise Summit 2015

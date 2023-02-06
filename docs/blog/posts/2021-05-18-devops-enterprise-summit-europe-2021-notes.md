@@ -1,5 +1,7 @@
 ---
 date: 2020-05-18
+authors:
+  - ojacques
 ---
 
 # 10 talks from Virtual DevOps Enterprise Summit Europe 2021

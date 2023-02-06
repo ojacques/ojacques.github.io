@@ -1,5 +1,7 @@
 ---
 date: 2017-10-24
+authors:
+  - ojacques
 ---
 
 # Technical documentation in GitHub

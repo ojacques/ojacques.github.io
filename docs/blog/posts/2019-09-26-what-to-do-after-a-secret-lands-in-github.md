@@ -1,5 +1,7 @@
 ---
 date: 2019-09-26
+authors:
+  - ojacques
 ---
 
 # Oops. I checked-in a secret key

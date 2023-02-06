@@ -1,5 +1,7 @@
 ---
 date: 2020-05-06
+authors:
+  - ojacques
 ---
 
 # 6 Strategies to Set Time Aside to Improve

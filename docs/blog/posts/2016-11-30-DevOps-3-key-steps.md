@@ -1,5 +1,7 @@
 ---
 date: 2016-11-30
+authors:
+  - ojacques
 ---
 
 # 📺 DevOps, 3 key steps
