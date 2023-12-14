@@ -2,7 +2,7 @@
 
 ## Work
 
-I'm a Senior DevOps Architect. I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/), inspired by the [5 ideals](https://www.olivierjacques.com/blog/The-Unicorn-Project-Book-Review/#the-five-ideals).
+I'm a Senior DevOps Architect. I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/), inspired by the [5 ideals](https://ojacques.github.io/blog/2019-11-22/the-unicorn-project-book-review/#the-five-ideals).
 
 ![Personal Projects Stats](https://github-readme-stats.vercel.app/api?username=ojacques&count_private=true&show_icons=true&theme=merko&include_all_commits=true&custom_title=Olivier%27s%20GitHub%20Stats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
